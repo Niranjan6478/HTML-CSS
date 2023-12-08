@@ -34,8 +34,8 @@ body{
     width: 200px;
 }
 .about-img{
-    width: 200px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
     overflow: hidden;
     border-radius: 50%;
     transition: all 0.5s ease-in-out;
